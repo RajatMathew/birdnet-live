@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+dist/
+*.local
+
+# Runtime data (downloaded model cache lives outside the repo)
+backend/data/
+*.db
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
